@@ -88,7 +88,7 @@ If you have questions or concerns about this Privacy Policy, please contact us:
 
 **App Name:** Water Sort Game  
 **Developer:** Kirati Tech Solutions  
-**Email:** YOUR_SUPPORT_EMAIL@example.com
+**Email:** kiratitechsolutions@gmail.com
 
 Please replace the email address above with your actual support email before publishing.
 
